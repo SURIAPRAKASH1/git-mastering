@@ -4,3 +4,4 @@ const initialValues = {
 };
 
 cosole.log("New console log");
+console.log("Testing git revert comment");
