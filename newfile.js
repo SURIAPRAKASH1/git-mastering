@@ -5,3 +5,10 @@ const some = () => {
     return "you're finished";
   }
 };
+
+// some random feture realted to server
+const http = (req, res) => {
+  if (req == 200) {
+    console.log("correct route");
+  }
+};
